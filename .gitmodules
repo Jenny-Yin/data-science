@@ -1,0 +1,3 @@
+[submodule "python-for-data-analysis"]
+	path = python-for-data-analysis
+	url = https://github.com/Jenny-Yin/python-for-data-analysis.git
