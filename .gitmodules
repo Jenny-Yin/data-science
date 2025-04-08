@@ -1,3 +1,6 @@
 [submodule "python-for-data-analysis"]
 	path = python-for-data-analysis
 	url = https://github.com/Jenny-Yin/python-for-data-analysis.git
+[submodule "SQL-for-Data-Analytics-Third-Edition"]
+	path = SQL-for-Data-Analytics-Third-Edition
+	url = https://github.com/PacktPublishing/SQL-for-Data-Analytics-Third-Edition.git
